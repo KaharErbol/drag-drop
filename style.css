@@ -17,6 +17,7 @@ body {
   background-color: darkgreen;
   padding: 2/3rem;
   margin: 1rem;
+  border-radius: 10px;
   min-width: 300px;
   min-height: 400px;
 }
@@ -26,6 +27,7 @@ body {
   margin: 1rem;
   background-color: white;
   border: 1px solid lightgreen;
+  border-radius: 10px;
   cursor: move;
 }
 
